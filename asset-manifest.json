@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wavy-word-generator/static/css/main.98299d91.css",
+    "main.js": "/wavy-word-generator/static/js/main.f3598825.js",
+    "index.html": "/wavy-word-generator/index.html",
+    "main.98299d91.css.map": "/wavy-word-generator/static/css/main.98299d91.css.map",
+    "main.f3598825.js.map": "/wavy-word-generator/static/js/main.f3598825.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98299d91.css",
+    "static/js/main.f3598825.js"
+  ]
+}
