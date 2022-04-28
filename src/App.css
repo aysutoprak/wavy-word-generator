@@ -1,0 +1,22 @@
+.App{
+    box-sizing: border-box;
+    justify-content: center;
+    text-align: center;
+    background-color: azure;
+}
+
+.App-header{
+    background-color: aquamarine;
+}
+
+.enterword{
+    font-weight: bold;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+#inpt{
+    margin : 10px;
+}
